@@ -74,11 +74,6 @@ For questions about this policy, email: scrollearnapp@gmail.com
 - **Data handling**: All data read by the Accessibility Service (package names, timestamps) is stored locally on-device only. No data is transmitted, shared, or uploaded.
 - **User consent**: Explicit consent is obtained during onboarding before the service can be enabled. Users can disable the service at any time via system Settings > Accessibility.
 
-### Usage Stats Permission (PACKAGE_USAGE_STATS)
-- **Purpose**: Used as a backup to detect the foreground app if the Accessibility Service is unavailable on some devices. Only the current foreground package name is read.
-- **Data handling**: Queried locally; no data is transmitted off-device.
-- **User control**: Users must grant this permission manually via system Settings > Apps > Special app access > Usage access. It can be revoked at any time.
-
 ## Data Safety Section (Google Play)
 
 - **App info and performance (Crash logs)**: Firebase Crashlytics collects crash traces and device state for crash fixing.
