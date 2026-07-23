@@ -47,7 +47,7 @@ We do not sell, trade, or share your personal data with third parties. The app u
 
 ## Data Retention
 
-Data is retained on your device indefinitely until you uninstall the app or clear app data. There is no cloud backup or sync.
+Your usage data (scroll sessions, earn actions, preferences) is retained on your device indefinitely until you uninstall the app or clear app data. Crash logs transmitted to Firebase Crashlytics are retained by Google per their data retention policies. There is no cloud backup or sync of your usage data.
 
 ## Your Rights
 
